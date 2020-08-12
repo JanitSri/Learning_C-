@@ -14,3 +14,6 @@
 - Section 17 - Smart Pointers
 - Section 18 - Exception Handling
 - Section 19 - I/O and Streams
+- Section 20 - The Standard Template Library (STL)
+
+
